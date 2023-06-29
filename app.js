@@ -68,5 +68,3 @@ app.get("/posts/:postName", function(req, res){
 app.listen(3000, function() {
   console.log("Server started on port 3000");
 });
-
-// Star Count: gold 10/21 silver 3/21 bronze 8/21
